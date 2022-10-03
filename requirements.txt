@@ -8,4 +8,4 @@ scipy>=0.15.1
 Flask==1.1.1
 flask_cors
 matplotlib
-opencv-python-headless==4.6.0.66
+opencv-python==4.2.0.32
